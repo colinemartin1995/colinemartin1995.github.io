@@ -89,15 +89,15 @@
       <file leaf-file-name="Titres.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Pages/Titres.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="359">
-              <caret line="43" column="22" lean-forward="false" selection-start-line="43" selection-start-column="22" selection-end-line="43" selection-end-column="22" />
+            <state relative-caret-position="303">
+              <caret line="45" column="16" lean-forward="false" selection-start-line="45" selection-start-column="16" selection-end-line="45" selection-end-column="16" />
               <folding>
-                <element signature="e#495#499#0" expanded="true" />
-                <element signature="e#502#506#0" expanded="true" />
-                <element signature="e#753#757#0" expanded="true" />
-                <element signature="e#759#763#0" expanded="true" />
-                <element signature="e#988#992#0" expanded="true" />
-                <element signature="e#994#998#0" expanded="true" />
+                <element signature="e#515#519#0" expanded="true" />
+                <element signature="e#521#525#0" expanded="true" />
+                <element signature="e#769#773#0" expanded="true" />
+                <element signature="e#775#779#0" expanded="true" />
+                <element signature="e#1004#1008#0" expanded="true" />
+                <element signature="e#1010#1014#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -178,10 +178,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1382" />
-    <option name="height" value="744" />
+    <option name="x" value="1287" />
+    <option name="width" value="1261" />
+    <option name="height" value="688" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -321,18 +320,18 @@
       <option name="presentableId" value="Default" />
       <updated>1487060585297</updated>
       <workItem from="1487060588971" duration="54000" />
-      <workItem from="1487060696054" duration="13617000" />
+      <workItem from="1487060696054" duration="14046000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13671000" />
+    <option name="totallyTimeSpent" value="14100000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="1287" y="0" width="1261" height="688" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13909224" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15261044" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -477,15 +476,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Pages/Titres.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="359">
-          <caret line="43" column="22" lean-forward="false" selection-start-line="43" selection-start-column="22" selection-end-line="43" selection-end-column="22" />
+        <state relative-caret-position="303">
+          <caret line="45" column="16" lean-forward="false" selection-start-line="45" selection-start-column="16" selection-end-line="45" selection-end-column="16" />
           <folding>
-            <element signature="e#495#499#0" expanded="true" />
-            <element signature="e#502#506#0" expanded="true" />
-            <element signature="e#753#757#0" expanded="true" />
-            <element signature="e#759#763#0" expanded="true" />
-            <element signature="e#988#992#0" expanded="true" />
-            <element signature="e#994#998#0" expanded="true" />
+            <element signature="e#515#519#0" expanded="true" />
+            <element signature="e#521#525#0" expanded="true" />
+            <element signature="e#769#773#0" expanded="true" />
+            <element signature="e#775#779#0" expanded="true" />
+            <element signature="e#1004#1008#0" expanded="true" />
+            <element signature="e#1010#1014#0" expanded="true" />
           </folding>
         </state>
       </provider>

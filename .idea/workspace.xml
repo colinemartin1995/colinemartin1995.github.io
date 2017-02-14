@@ -28,11 +28,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Css/style.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Listes.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Pages/Listes.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="609">
+              <caret line="44" column="88" lean-forward="false" selection-start-line="44" selection-start-column="88" selection-end-line="44" selection-end-column="88" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Paragraphes.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Pages/Paragraphes.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="20" column="146" lean-forward="false" selection-start-line="20" selection-start-column="146" selection-end-line="20" selection-end-column="146" />
               <folding />
             </state>
           </provider>
@@ -52,6 +72,8 @@
       <list>
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/Css/style.css" />
+        <option value="$PROJECT_DIR$/Pages/Listes.html" />
+        <option value="$PROJECT_DIR$/Pages/Paragraphes.html" />
       </list>
     </option>
   </component>
@@ -91,6 +113,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="Html Evaluation" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Html Evaluation" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Html Evaluation" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Pages" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -190,12 +226,12 @@
       <option name="presentableId" value="Default" />
       <updated>1487060585297</updated>
       <workItem from="1487060588971" duration="54000" />
-      <workItem from="1487060696054" duration="1339000" />
+      <workItem from="1487060696054" duration="1948000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1393000" />
+    <option name="totallyTimeSpent" value="2002000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1359" y="0" width="1289" height="991" extended-state="0" />
@@ -250,6 +286,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pages/Listes.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="609">
+          <caret line="44" column="88" lean-forward="false" selection-start-line="44" selection-start-column="88" selection-end-line="44" selection-end-column="88" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pages/Paragraphes.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="146" lean-forward="false" selection-start-line="20" selection-start-column="146" selection-end-line="20" selection-end-column="146" />
           <folding />
         </state>
       </provider>

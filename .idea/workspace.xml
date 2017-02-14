@@ -89,9 +89,16 @@
       <file leaf-file-name="Titres.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Pages/Titres.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="70">
-              <caret line="16" column="14" lean-forward="true" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
-              <folding />
+            <state relative-caret-position="359">
+              <caret line="43" column="22" lean-forward="false" selection-start-line="43" selection-start-column="22" selection-end-line="43" selection-end-column="22" />
+              <folding>
+                <element signature="e#495#499#0" expanded="true" />
+                <element signature="e#502#506#0" expanded="true" />
+                <element signature="e#753#757#0" expanded="true" />
+                <element signature="e#759#763#0" expanded="true" />
+                <element signature="e#988#992#0" expanded="true" />
+                <element signature="e#994#998#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -154,13 +161,13 @@
       <list>
         <option value="$PROJECT_DIR$/Css/style.css" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/Pages/Titres.html" />
         <option value="$PROJECT_DIR$/Pages/Paragraphes.html" />
         <option value="$PROJECT_DIR$/Pages/Notions.html" />
         <option value="$PROJECT_DIR$/Pages/Images.html" />
         <option value="$PROJECT_DIR$/Pages/Liens.html" />
         <option value="$PROJECT_DIR$/Pages/Listes.html" />
         <option value="$PROJECT_DIR$/Pages/Tableaux.html" />
+        <option value="$PROJECT_DIR$/Pages/Titres.html" />
       </list>
     </option>
   </component>
@@ -314,12 +321,12 @@
       <option name="presentableId" value="Default" />
       <updated>1487060585297</updated>
       <workItem from="1487060588971" duration="54000" />
-      <workItem from="1487060696054" duration="13348000" />
+      <workItem from="1487060696054" duration="13617000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13402000" />
+    <option name="totallyTimeSpent" value="13671000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -470,9 +477,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Pages/Titres.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="70">
-          <caret line="16" column="14" lean-forward="true" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
-          <folding />
+        <state relative-caret-position="359">
+          <caret line="43" column="22" lean-forward="false" selection-start-line="43" selection-start-column="22" selection-end-line="43" selection-end-column="22" />
+          <folding>
+            <element signature="e#495#499#0" expanded="true" />
+            <element signature="e#502#506#0" expanded="true" />
+            <element signature="e#753#757#0" expanded="true" />
+            <element signature="e#759#763#0" expanded="true" />
+            <element signature="e#988#992#0" expanded="true" />
+            <element signature="e#994#998#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

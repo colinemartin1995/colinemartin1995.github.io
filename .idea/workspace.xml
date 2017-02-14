@@ -89,15 +89,15 @@
       <file leaf-file-name="Titres.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Pages/Titres.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="303">
-              <caret line="45" column="16" lean-forward="false" selection-start-line="45" selection-start-column="16" selection-end-line="45" selection-end-column="16" />
+            <state relative-caret-position="371">
+              <caret line="46" column="18" lean-forward="false" selection-start-line="46" selection-start-column="18" selection-end-line="46" selection-end-column="18" />
               <folding>
-                <element signature="e#515#519#0" expanded="true" />
-                <element signature="e#521#525#0" expanded="true" />
-                <element signature="e#769#773#0" expanded="true" />
-                <element signature="e#775#779#0" expanded="true" />
-                <element signature="e#1004#1008#0" expanded="true" />
-                <element signature="e#1010#1014#0" expanded="true" />
+                <element signature="e#536#540#0" expanded="true" />
+                <element signature="e#542#546#0" expanded="true" />
+                <element signature="e#815#819#0" expanded="true" />
+                <element signature="e#821#825#0" expanded="true" />
+                <element signature="e#1071#1075#0" expanded="true" />
+                <element signature="e#1077#1081#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -320,12 +320,12 @@
       <option name="presentableId" value="Default" />
       <updated>1487060585297</updated>
       <workItem from="1487060588971" duration="54000" />
-      <workItem from="1487060696054" duration="14046000" />
+      <workItem from="1487060696054" duration="14337000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14100000" />
+    <option name="totallyTimeSpent" value="14391000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1287" y="0" width="1261" height="688" extended-state="0" />
@@ -476,15 +476,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Pages/Titres.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="303">
-          <caret line="45" column="16" lean-forward="false" selection-start-line="45" selection-start-column="16" selection-end-line="45" selection-end-column="16" />
+        <state relative-caret-position="371">
+          <caret line="46" column="18" lean-forward="false" selection-start-line="46" selection-start-column="18" selection-end-line="46" selection-end-column="18" />
           <folding>
-            <element signature="e#515#519#0" expanded="true" />
-            <element signature="e#521#525#0" expanded="true" />
-            <element signature="e#769#773#0" expanded="true" />
-            <element signature="e#775#779#0" expanded="true" />
-            <element signature="e#1004#1008#0" expanded="true" />
-            <element signature="e#1010#1014#0" expanded="true" />
+            <element signature="e#536#540#0" expanded="true" />
+            <element signature="e#542#546#0" expanded="true" />
+            <element signature="e#815#819#0" expanded="true" />
+            <element signature="e#821#825#0" expanded="true" />
+            <element signature="e#1071#1075#0" expanded="true" />
+            <element signature="e#1077#1081#0" expanded="true" />
           </folding>
         </state>
       </provider>

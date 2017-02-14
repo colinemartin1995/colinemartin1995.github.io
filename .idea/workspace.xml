@@ -60,18 +60,21 @@
       <file leaf-file-name="Listes.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Pages/Listes.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="23" column="23" lean-forward="false" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="23" />
+            <state relative-caret-position="184">
+              <caret line="49" column="47" lean-forward="false" selection-start-line="49" selection-start-column="47" selection-end-line="49" selection-end-column="47" />
               <folding>
                 <element signature="e#527#531#0" expanded="true" />
                 <element signature="e#533#537#0" expanded="true" />
+                <element signature="e#620#624#0" expanded="true" />
                 <element signature="e#626#630#0" expanded="true" />
                 <element signature="e#1108#1112#0" expanded="true" />
                 <element signature="e#1114#1118#0" expanded="true" />
                 <element signature="e#1197#1201#0" expanded="true" />
                 <element signature="e#1203#1207#0" expanded="true" />
-                <element signature="e#1813#1817#0" expanded="true" />
-                <element signature="e#1819#1823#0" expanded="true" />
+                <element signature="e#1765#1769#0" expanded="true" />
+                <element signature="e#1771#1775#0" expanded="true" />
+                <element signature="e#1816#1820#0" expanded="true" />
+                <element signature="e#1822#1826#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -167,6 +170,11 @@
         <option value="CSS File" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>&amp;lt</find>
+    </findStrings>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -332,12 +340,12 @@
       <option name="presentableId" value="Default" />
       <updated>1487060585297</updated>
       <workItem from="1487060588971" duration="54000" />
-      <workItem from="1487060696054" duration="16337000" />
+      <workItem from="1487060696054" duration="16970000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16391000" />
+    <option name="totallyTimeSpent" value="17024000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1287" y="0" width="1261" height="688" extended-state="0" />
@@ -497,18 +505,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Pages/Listes.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="23" lean-forward="false" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="23" />
+        <state relative-caret-position="184">
+          <caret line="49" column="47" lean-forward="false" selection-start-line="49" selection-start-column="47" selection-end-line="49" selection-end-column="47" />
           <folding>
             <element signature="e#527#531#0" expanded="true" />
             <element signature="e#533#537#0" expanded="true" />
+            <element signature="e#620#624#0" expanded="true" />
             <element signature="e#626#630#0" expanded="true" />
             <element signature="e#1108#1112#0" expanded="true" />
             <element signature="e#1114#1118#0" expanded="true" />
             <element signature="e#1197#1201#0" expanded="true" />
             <element signature="e#1203#1207#0" expanded="true" />
-            <element signature="e#1813#1817#0" expanded="true" />
-            <element signature="e#1819#1823#0" expanded="true" />
+            <element signature="e#1765#1769#0" expanded="true" />
+            <element signature="e#1771#1775#0" expanded="true" />
+            <element signature="e#1816#1820#0" expanded="true" />
+            <element signature="e#1822#1826#0" expanded="true" />
           </folding>
         </state>
       </provider>

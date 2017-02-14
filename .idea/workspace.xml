@@ -86,7 +86,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Titres.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Titres.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Pages/Titres.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="371">
@@ -103,14 +103,16 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Paragraphes.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Paragraphes.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Pages/Paragraphes.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="145">
-              <caret line="16" column="59" lean-forward="false" selection-start-line="16" selection-start-column="59" selection-end-line="16" selection-end-column="59" />
+            <state relative-caret-position="213">
+              <caret line="23" column="23" lean-forward="false" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="23" />
               <folding>
-                <element signature="e#256#260#0" expanded="true" />
-                <element signature="e#261#265#0" expanded="true" />
+                <element signature="e#297#301#0" expanded="true" />
+                <element signature="e#302#306#0" expanded="true" />
+                <element signature="e#935#939#0" expanded="true" />
+                <element signature="e#942#946#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -161,13 +163,13 @@
       <list>
         <option value="$PROJECT_DIR$/Css/style.css" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/Pages/Paragraphes.html" />
         <option value="$PROJECT_DIR$/Pages/Notions.html" />
         <option value="$PROJECT_DIR$/Pages/Images.html" />
         <option value="$PROJECT_DIR$/Pages/Liens.html" />
         <option value="$PROJECT_DIR$/Pages/Listes.html" />
         <option value="$PROJECT_DIR$/Pages/Tableaux.html" />
         <option value="$PROJECT_DIR$/Pages/Titres.html" />
+        <option value="$PROJECT_DIR$/Pages/Paragraphes.html" />
       </list>
     </option>
   </component>
@@ -320,12 +322,12 @@
       <option name="presentableId" value="Default" />
       <updated>1487060585297</updated>
       <workItem from="1487060588971" duration="54000" />
-      <workItem from="1487060696054" duration="14337000" />
+      <workItem from="1487060696054" duration="14648000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14391000" />
+    <option name="totallyTimeSpent" value="14702000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1287" y="0" width="1261" height="688" extended-state="0" />
@@ -414,17 +416,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Pages/Paragraphes.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="145">
-          <caret line="16" column="59" lean-forward="false" selection-start-line="16" selection-start-column="59" selection-end-line="16" selection-end-column="59" />
-          <folding>
-            <element signature="e#256#260#0" expanded="true" />
-            <element signature="e#261#265#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Pages/Liens.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
@@ -485,6 +476,19 @@
             <element signature="e#821#825#0" expanded="true" />
             <element signature="e#1071#1075#0" expanded="true" />
             <element signature="e#1077#1081#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pages/Paragraphes.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="213">
+          <caret line="23" column="23" lean-forward="false" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="23" />
+          <folding>
+            <element signature="e#297#301#0" expanded="true" />
+            <element signature="e#302#306#0" expanded="true" />
+            <element signature="e#935#939#0" expanded="true" />
+            <element signature="e#942#946#0" expanded="true" />
           </folding>
         </state>
       </provider>

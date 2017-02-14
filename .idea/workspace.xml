@@ -48,11 +48,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Paragraphes.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Paragraphes.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Pages/Paragraphes.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="340">
               <caret line="20" column="146" lean-forward="false" selection-start-line="20" selection-start-column="146" selection-end-line="20" selection-end-column="146" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Notions.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Pages/Notions.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="609">
+              <caret line="60" column="150" lean-forward="false" selection-start-line="60" selection-start-column="150" selection-end-line="60" selection-end-column="150" />
               <folding />
             </state>
           </provider>
@@ -74,6 +84,7 @@
         <option value="$PROJECT_DIR$/Css/style.css" />
         <option value="$PROJECT_DIR$/Pages/Listes.html" />
         <option value="$PROJECT_DIR$/Pages/Paragraphes.html" />
+        <option value="$PROJECT_DIR$/Pages/Notions.html" />
       </list>
     </option>
   </component>
@@ -226,12 +237,12 @@
       <option name="presentableId" value="Default" />
       <updated>1487060585297</updated>
       <workItem from="1487060588971" duration="54000" />
-      <workItem from="1487060696054" duration="1948000" />
+      <workItem from="1487060696054" duration="2951000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2002000" />
+    <option name="totallyTimeSpent" value="3005000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1359" y="0" width="1289" height="991" extended-state="0" />
@@ -302,6 +313,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
           <caret line="20" column="146" lean-forward="false" selection-start-line="20" selection-start-column="146" selection-end-line="20" selection-end-column="146" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pages/Notions.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="609">
+          <caret line="60" column="150" lean-forward="false" selection-start-line="60" selection-start-column="150" selection-end-line="60" selection-end-column="150" />
           <folding />
         </state>
       </provider>

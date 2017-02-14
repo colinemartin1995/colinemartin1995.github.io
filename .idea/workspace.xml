@@ -28,16 +28,16 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Images.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Images.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Pages/Images.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="26" column="18" lean-forward="false" selection-start-line="26" selection-start-column="18" selection-end-line="26" selection-end-column="18" />
+            <state relative-caret-position="374">
+              <caret line="22" column="80" lean-forward="false" selection-start-line="22" selection-start-column="80" selection-end-line="22" selection-end-column="80" />
               <folding>
-                <element signature="e#477#481#0" expanded="true" />
-                <element signature="e#485#489#0" expanded="true" />
-                <element signature="e#569#573#0" expanded="true" />
-                <element signature="e#599#603#0" expanded="true" />
+                <element signature="e#468#472#0" expanded="true" />
+                <element signature="e#476#480#0" expanded="true" />
+                <element signature="e#560#564#0" expanded="true" />
+                <element signature="e#590#594#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -57,7 +57,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Listes.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Listes.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Pages/Listes.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="105">
@@ -182,12 +182,12 @@
         <option value="$PROJECT_DIR$/Css/style.css" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/Pages/Notions.html" />
-        <option value="$PROJECT_DIR$/Pages/Images.html" />
         <option value="$PROJECT_DIR$/Pages/Liens.html" />
         <option value="$PROJECT_DIR$/Pages/Tableaux.html" />
         <option value="$PROJECT_DIR$/Pages/Titres.html" />
         <option value="$PROJECT_DIR$/Pages/Paragraphes.html" />
         <option value="$PROJECT_DIR$/Pages/Listes.html" />
+        <option value="$PROJECT_DIR$/Pages/Images.html" />
       </list>
     </option>
   </component>
@@ -341,12 +341,12 @@
       <option name="presentableId" value="Default" />
       <updated>1487060585297</updated>
       <workItem from="1487060588971" duration="54000" />
-      <workItem from="1487060696054" duration="17066000" />
+      <workItem from="1487060696054" duration="17143000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17120000" />
+    <option name="totallyTimeSpent" value="17197000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1358" y="-8" width="1296" height="1000" extended-state="6" />
@@ -402,19 +402,6 @@
         <state relative-caret-position="238">
           <caret line="14" column="8" lean-forward="false" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Pages/Images.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="26" column="18" lean-forward="false" selection-start-line="26" selection-start-column="18" selection-end-line="26" selection-end-column="18" />
-          <folding>
-            <element signature="e#477#481#0" expanded="true" />
-            <element signature="e#485#489#0" expanded="true" />
-            <element signature="e#569#573#0" expanded="true" />
-            <element signature="e#599#603#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -521,6 +508,19 @@
             <element signature="e#1765#1769#0" expanded="true" />
             <element signature="e#1810#1814#0" expanded="true" />
             <element signature="e#1816#1820#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pages/Images.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="80" lean-forward="false" selection-start-line="22" selection-start-column="80" selection-end-line="22" selection-end-column="80" />
+          <folding>
+            <element signature="e#468#472#0" expanded="true" />
+            <element signature="e#476#480#0" expanded="true" />
+            <element signature="e#560#564#0" expanded="true" />
+            <element signature="e#590#594#0" expanded="true" />
           </folding>
         </state>
       </provider>

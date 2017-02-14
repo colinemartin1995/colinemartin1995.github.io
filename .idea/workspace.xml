@@ -106,13 +106,13 @@
       <file leaf-file-name="Paragraphes.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Pages/Paragraphes.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="33" lean-forward="false" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
+            <state relative-caret-position="255">
+              <caret line="15" column="22" lean-forward="true" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
               <folding>
-                <element signature="e#330#334#0" expanded="true" />
-                <element signature="e#335#339#0" expanded="true" />
-                <element signature="e#968#972#0" expanded="true" />
-                <element signature="e#975#979#0" expanded="true" />
+                <element signature="e#250#254#0" expanded="true" />
+                <element signature="e#255#259#0" expanded="true" />
+                <element signature="e#946#950#0" expanded="true" />
+                <element signature="e#953#957#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -322,12 +322,12 @@
       <option name="presentableId" value="Default" />
       <updated>1487060585297</updated>
       <workItem from="1487060588971" duration="54000" />
-      <workItem from="1487060696054" duration="14784000" />
+      <workItem from="1487060696054" duration="14912000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14838000" />
+    <option name="totallyTimeSpent" value="14966000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1287" y="0" width="1261" height="688" extended-state="0" />
@@ -482,13 +482,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Pages/Paragraphes.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="33" lean-forward="false" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
+        <state relative-caret-position="255">
+          <caret line="15" column="22" lean-forward="true" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
           <folding>
-            <element signature="e#330#334#0" expanded="true" />
-            <element signature="e#335#339#0" expanded="true" />
-            <element signature="e#968#972#0" expanded="true" />
-            <element signature="e#975#979#0" expanded="true" />
+            <element signature="e#250#254#0" expanded="true" />
+            <element signature="e#255#259#0" expanded="true" />
+            <element signature="e#946#950#0" expanded="true" />
+            <element signature="e#953#957#0" expanded="true" />
           </folding>
         </state>
       </provider>
